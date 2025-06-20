@@ -34,6 +34,10 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=твой-username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Cat">
 </div>
 
@@ -41,7 +45,7 @@
 
 ```javascript
 const developer = {
-    name: "Frontend Developer",
+    name: "Azim Borkoev",
     location: "Bishkek, Kyrgyzstan 🇰🇬",
     currentFocus: "React & TypeScript",
     hobbies: ["Coding", "Learning", "Coffee ☕"],
@@ -51,10 +55,18 @@ const developer = {
 ```
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=твой-username&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" height="180">
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Pixel Art">
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-username&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="150">
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=твой-username&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
