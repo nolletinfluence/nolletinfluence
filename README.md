@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG01YW5mZ2t2N2Y3MjRrbnd3N2l3eWlob20xY2gzZjh5aTVhMjI5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif)" width="250" alt="Coding Cat">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG01YW5mZ2t2N2Y3MjRrbnd3N2l3eWlob20xY2gzZjh5aTVhMjI5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="250" alt="Coding Cat">
 </div>
 
 <div align="center">
