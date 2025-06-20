@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="100%" alt="Coding">
+  <img src="https://v1.pinimg.com/videos/mc/720p/91/79/46/9179463803bfb98396ae53e13b2306ac.mp4" width="100%" alt="Coding">
 </div>
 
 <div align="center">
