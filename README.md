@@ -34,7 +34,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой-username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=nolletinfluence&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
 </div>
 
 <div align="center">
@@ -55,7 +55,7 @@ const developer = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=твой-username&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nolletinfluence&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" height="180">
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-username&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolletinfluence&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="150">
 </div>
 
 <div align="center">
