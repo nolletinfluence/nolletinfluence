@@ -45,7 +45,7 @@
 
 ```javascript
 const developer = {
-    name: "Azim Borkoev",
+    name: "Frontend Developer",
     location: "Bishkek, Kyrgyzstan 🇰🇬",
     currentFocus: "React & TypeScript",
     hobbies: ["Coding", "Learning", "Coffee ☕"],
@@ -65,7 +65,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolletinfluence&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-username&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="150">
 </div>
 
 <div align="center">
