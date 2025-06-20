@@ -34,7 +34,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nolletinfluence&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=nolletinfluence&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
 </div>
 
 <div align="center">
@@ -55,7 +55,7 @@ const developer = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?username=nolletinfluence&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" height="180">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nolletinfluence&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" alt="Activity Graph" height="180">
 </div>
 
 <div align="center">
