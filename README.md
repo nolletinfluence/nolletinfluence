@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Pixel Art">
+  <img src="https://i.pinimg.com/originals/ef/6d/42/ef6d42581db3613437e16f7301be881a.gif" width="500" alt="Pixel Art">
 </div>
 
 <div align="center">
