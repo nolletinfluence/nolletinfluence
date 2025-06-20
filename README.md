@@ -65,11 +65,11 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-username&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolletinfluence&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="150">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=твой-username&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=nolletinfluence&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
   
   **Thanks for visiting! Have a great day! 😊**
 </div>
