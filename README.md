@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&background=00000000&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;I'm+a+Fullstack+Engineer+⚡;Welcome+to+my+space+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&background=00000000&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;I'm+a+Backend-Focused+Fullstack+Engineer+⚡;Welcome+to+my+space+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,8 +18,15 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1F6E43?style=flat&logo=python&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-20232A?style=flat&logo=python&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-FF6F00?style=flat&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+#### **Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -30,12 +37,6 @@
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-#### **Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 #### **Styling**
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
@@ -59,9 +60,10 @@ Git • GitHub • Postman • Swagger • Figma • Linux CLI
 
 ### 💫 About me
 
-*Fullstack Engineer from Bishkek 🏔️*  
-*Building modern apps with FastAPI, PostgreSQL & React/Next.js*  
-*Love working with RTK Query, Zustand & TensorFlow.js*  
+*Backend-focused Fullstack Engineer from Kyrgyzstan 🏔️*  
+*Specializing in Python (FastAPI, SQLAlchemy, PostgreSQL, Redis, WebSockets) and scalable backend architectures*  
+*Started as a frontend dev, now moving deeper into backend & infrastructure*  
+*🔥 Burning with passion to transition into ML/AI development with Python*  
 *Docker + CI/CD enthusiast & clean architecture advocate ✨*
 
 </div>
